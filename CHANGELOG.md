@@ -1,3 +1,10 @@
+# [1.1.0-dev.1](https://github.com/4831c0/custom-revanced-patches/compare/v1.0.1...v1.1.0-dev.1) (2026-06-02)
+
+
+### Features
+
+* mav background token refresher ([cadf2b9](https://github.com/4831c0/custom-revanced-patches/commit/cadf2b9ba4f043a49247cf8401a9aa8124a82d26))
+
 ## [1.0.1](https://github.com/4831c0/custom-revanced-patches/compare/v1.0.0...v1.0.1) (2026-06-02)
 
 
