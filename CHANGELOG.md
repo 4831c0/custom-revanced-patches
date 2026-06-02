@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/4831c0/custom-revanced-patches/compare/v1.0.0...v1.0.1) (2026-06-02)
+
+
+### Bug Fixes
+
+* rename patches ([89c5a66](https://github.com/4831c0/custom-revanced-patches/commit/89c5a6610f0feeb228b08ad8996f732c4e156969))
+
 # 1.0.0 (2026-06-02)
 
 
