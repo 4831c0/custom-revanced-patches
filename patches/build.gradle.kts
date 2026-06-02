@@ -2,7 +2,7 @@ group = "app.revanced"
 
 patches {
     about {
-        name = "ReVanced Patches template"
+        name = "4831c0's ReVanced Patches"
         description = "Patches template for ReVanced"
         source = "git@github.com:revanced/revanced-patches-template.git"
         author = "ReVanced"
